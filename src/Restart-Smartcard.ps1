@@ -1,6 +1,6 @@
 <# 
 .SYNOPSIS
-Script will reinstall smartcard driver.
+Script will reinstall smartcard drivers.
 
 .LINK
 https://github.com/krcs/restart-smartcard
