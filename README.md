@@ -1,4 +1,4 @@
-# make-openssl
+# restart-smartcard
 Powershell script for reinstalling smartcard drivers.
 
 I use this script when I need to switch between gpg and opensc. 
