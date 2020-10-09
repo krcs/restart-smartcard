@@ -2,7 +2,8 @@
 Powershell script for reinstalling smartcard drivers.
 
 I use this script when I need to switch between gpg and opensc. 
-When using openvpn (opensc) and authentication in ssh (gpg) I don't need to disconnect and reconnect my yubikey every time.
+When using openvpn (opensc) and authentication in ssh (gpg) I don't need to disconnect and reconnect my smartcard every time.
+
 Tested with yubikey and nitrokey.
 
 #### Requirements
